@@ -19,7 +19,8 @@ background:linear-gradient(180deg , lightblue , white);
     border: 2px solid rgb(210, 206, 206);
     border-radius: 5px;
     margin:220px auto;
-    background-color: rgb(236, 234, 234);
+    color: rgb(17, 16, 16);
+    background-color: rgb(254, 251, 251);
     
 }
 
@@ -75,14 +76,15 @@ background:linear-gradient(180deg , lightblue , white);
     border: 1px solid  #e4dfdf;
     width: 70px;
     height: 30px;
-    background-color: rgb(236, 234, 234);
+    background-color: rgb(89, 86, 86);
     border-radius: 4px;
 }
 
 .container1>#button:hover
 {
     cursor:pointer;
-    background-color: white;
+    border: 1px solid white;
+    color: white;
 }
 
 img
